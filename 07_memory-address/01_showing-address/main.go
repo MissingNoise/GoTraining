@@ -7,5 +7,5 @@ func main() {
 
 	fmt.Println("a - ", a)
 	fmt.Println("a's memory address - ", &a)
-	fmt.Println("a's memory address in dec - %d \n", &a)
+	fmt.Printf("a's memory address in dec - %d \n", &a)
 }
